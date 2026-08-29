@@ -22,7 +22,7 @@
 
 <h3>Visualización</h3>
 <p>Puedes ver el sitio en:<br>
-<a href="https://alexpg.github.io/portfolio-web" target="_blank" rel="noopener noreferrer">https://alexpg.github.io/portfolio-web</a></p>
+<a href="https://alexpg-design.github.io/alexpg-portfolio/" target="_blank" rel="noopener noreferrer">https://alexpg.github.io/portfolio-web</a></p>
 
 <h3>Aviso de uso</h3>
 <p>Este portafolio es de uso exclusivamente visual y educativo. No se permite copiar, modificar ni utilizar el código con fines comerciales sin autorización expresa. Todos los derechos reservados © Alex PG.</p>
