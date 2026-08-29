@@ -1,6 +1,6 @@
 <h2>Portfolio Web</h2>
 
-<p>Portafolio interactivo desarrollado en HTML, CSS y JavaScript.</p>
+<p>Portafolio interactivo desarrollado en HTML y CSS.</p>
 
 <p>Este sitio presenta una selección de proyectos, habilidades y recursos visuales, diseñado para entrevistas, clientes y entornos técnicos. Está optimizado para compatibilidad ATS, claridad visual y navegación eficiente.</p>
 
@@ -16,7 +16,6 @@
 <ul>
   <li>HTML5 semántico</li>
   <li>CSS3 (Flexbox, Grid, variables)</li>
-  <li>JavaScript (DOM, eventos, modularidad)</li>
   <li>GitHub Pages para publicación</li>
 </ul>
 
